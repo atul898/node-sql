@@ -3,9 +3,7 @@ _sql string builder for node_ - supports PostgreSQL, mysql, Microsoft SQL Server
 
 Building SQL statements by hand is no fun, especially in a language which has clumsy support for multi-line strings.
 
-So let's build it with JavaScript.
-
-Maybe it's still not fun, but at least it's _less not fun_.
+Forked because brianc/node-sql is stale and is not taking pull requests https://github.com/brianc/node-sql/pull/423 and we needed this package working (with out any security vulnerabilities)
 
 [![Build Status](https://app.travis-ci.com/atul898/node-sql.svg)](https://app.travis-ci.com/github/atul898/node-sql)
 
